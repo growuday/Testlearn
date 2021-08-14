@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @growuday
+- 👋 Hi, I’m @Uday
 - 👀 I’m interested in testing
 - 🌱 I’m currently learning Postman, Selenium
 - 💞️ I’m looking to collaborate on github
